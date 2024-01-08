@@ -1,4 +1,4 @@
-const DschboardPage = () => {
+const DashBoardPage = () => {
     return (
         <>
         <div>
@@ -8,4 +8,4 @@ const DschboardPage = () => {
     )
 }
 
-export default DschboardPage;
+export default DashBoardPage;
